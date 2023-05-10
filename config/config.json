@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11202349fdbb8916a64c4c3baa87933c7a439153",
+  "SCAN_LINK": "https://etherscan.io/address/0x11202349fdbb8916a64c4c3baa87933c7a439153",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Karma NFT Collection",
+  "SYMBOL": "KRM",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 83444,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/karma-genesis-nft",
+  "SHOW_BACKGROUND": true
+}
